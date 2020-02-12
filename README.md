@@ -1,22 +1,16 @@
-# Sufee HTML5 Admin Dashboard Template
-**Sufee** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/sufee/index.html
+### Introduction
+Solglobal Money Mutuality Management System (MMMS) is a web application developed for Money Mutuality Organizations to facilitate their money management activities. We realize that many organizations of monetary mutuality always use papers, files, calculators, books to manage their commercial activities, which makes very difficult their operations, no follow-up, as well as the clarity of the operations,… MMMS will allow the main administrator to manage each member (register, edit, delete, activate or deactivate) by creating an account for each, will help manage contributions, loan of money and reimbursement of members. MMMS will help each member once connected, to follow its activities, its operations (contribution, loan of money, reimbursement) and also confirm the validity of its operations.
 
-# Preview
-
-### Screenshot
-
-![Sufee admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/sufee-free-modern-admin-dashboard-template.jpg)
-
-### Demo Site: [Here](https://colorlib.com/polygon/sufee/index.html)
+### Download the software in Github: https://github.com/ezechiel1/mmms (the database is in the kernel, called mmms_db). Default identifiers to connect: email: ezpk@gmail.com & password: ezpk
 
 ### TOC
 - [Built With](#built-with)
 - [Changelog](#changelog)
 - [Authors](#authors)
-- [License](#license)
 
 ### Built With
-
+- [Php] (Backend)
+- [Mysqli] (Database)
 - [Sass](http://sass-lang.com/)
 - [Bootstrap](http://getbootstrap.com/)
 - [Chart.js](http://www.chartjs.org/)
@@ -36,8 +30,6 @@
 ### Changelog
 #### V 1.0.0
 Initial Release
-### Authors
-[Colorlib](https://colorlib.com)
-### License
+### Author
+ezechielkalengya@gmail.com
 
-Sufee is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
