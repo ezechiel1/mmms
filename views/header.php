@@ -1,5 +1,6 @@
 <?php
 session_start();
+if(!isset($_SESSION['ID'])) header('location: index.php');
 //load and initialize database class
 require_once 'core/db.php';
 $db = new DB();

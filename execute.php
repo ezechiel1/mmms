@@ -10,7 +10,7 @@
     case 'contribution':
       include 'views/contribution.php';
       break;
-    case 'loan':
+    case 'money-loan':
       include 'views/money_loan.php';
       break;
     case 'money-back':

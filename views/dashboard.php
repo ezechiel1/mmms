@@ -14,7 +14,7 @@
                 <div class="card text-white bg-flat-color-1">
                     <div class="card-body pb-0">
                         <h4 class="mb-0">
-                            <span class="count">10468</span>
+                            <span class="count">3</span>
                         </h4>
                         <p class="text-light">Members</p>
                         <div class="chart-wrapper px-0" style="height:70px;" height="70">
@@ -29,7 +29,7 @@
                 <div class="card text-white bg-flat-color-2">
                     <div class="card-body pb-0">
                         <h4 class="mb-0">
-                            <span class="count">10468</span>
+                            <span class="count">82</span>
                         </h4>
                         <p class="text-light">Contributions</p>
 
@@ -46,7 +46,7 @@
                 <div class="card text-white bg-flat-color-3">
                     <div class="card-body pb-0">
                         <h4 class="mb-0">
-                            <span class="count">10468</span>
+                            <span class="count">35</span>
                         </h4>
                         <p class="text-light">Money Loan</p>
 
@@ -63,7 +63,7 @@
                 <div class="card text-white bg-flat-color-4">
                     <div class="card-body pb-0">
                         <h4 class="mb-0">
-                            <span class="count">10468</span>
+                            <span class="count">82</span>
                         </h4>
                         <p class="text-light">Money Back</p>
 
